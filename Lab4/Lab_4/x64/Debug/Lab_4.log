@@ -1,0 +1,5 @@
+﻿  pch.cpp
+  test.cpp
+gtestd.lib(gtest-all.obj) : warning LNK4099: "gtestd.pdb" PDB не найден с "gtestd.lib(gtest-all.obj)" или на "C:\Users\123\Desktop\Lab_4\x64\Debug\gtestd.pdb"; компоновка объекта выполняется как при отсутствии отладочных данных
+gtest_maind.lib(gtest_main.obj) : warning LNK4099: "gtest_maind.pdb" PDB не найден с "gtest_maind.lib(gtest_main.obj)" или на "C:\Users\123\Desktop\Lab_4\x64\Debug\gtest_maind.pdb"; компоновка объекта выполняется как при отсутствии отладочных данных
+  Lab_4.vcxproj -> C:\Users\123\Desktop\Lab_4\x64\Debug\Lab_4.exe
