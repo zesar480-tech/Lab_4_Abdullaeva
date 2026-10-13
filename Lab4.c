@@ -5,7 +5,7 @@
 #include <windows.h>
 
 
-void task1()
+int task1()
 {
     char c = '!';
     int i = 2;
@@ -74,7 +74,7 @@ void task1()
 }
 
 
-void task2()
+int task2()
 {
     int a = 11;
     int b = 3;
@@ -116,7 +116,7 @@ void task2()
 }
 
 
-void task3()
+int task3()
 {
     int n;
     int last;
